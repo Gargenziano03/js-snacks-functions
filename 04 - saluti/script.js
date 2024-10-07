@@ -7,5 +7,6 @@ const name = 'Mario';
 let saluto = () => `ciao ${name}`;
 
 // Invoca la funzione qui e stampa il risultato in console
+console.log(saluto());
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
